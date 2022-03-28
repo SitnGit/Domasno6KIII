@@ -1,4 +1,4 @@
-`---
+---
 #################################
 #################################
 ## Super Linter GitHub Actions ##
@@ -75,4 +75,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: nikolafinkidocker/domasno6kiii:latest`
+          tags: nikolafinkidocker/domasno6kiii:latest
